@@ -1,5 +1,5 @@
 
-# <img src="/assets/images/logo.svg" height="36px" width="36px" /> LIHKG❤️Github
+# <img src="/assets/images/logo.svg" height="36px" width="36px" /> reHKG 討論區 Frontend 網站
 
-<https://lihkg-backup.github.io/>
+Projec tbased on <https://lihkg-backup.github.io/>
 
